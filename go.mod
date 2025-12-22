@@ -8,7 +8,7 @@ require (
 	go.opentelemetry.io/contrib/exporters/autoexport v0.63.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.64.0
 	go.opentelemetry.io/otel v1.39.0
-	go.opentelemetry.io/otel/log v0.14.0
+	go.opentelemetry.io/otel/log v0.15.0
 	go.opentelemetry.io/otel/metric v1.39.0
 	go.opentelemetry.io/otel/sdk v1.39.0
 	go.opentelemetry.io/otel/sdk/log v0.14.0
